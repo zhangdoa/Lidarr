@@ -28,6 +28,7 @@ namespace NzbDrone.Core.MediaFiles
                 { ".aif", Quality.Unknown },
                 { ".aiff", Quality.Unknown },
                 { ".aifc", Quality.Unknown }
+                { ".cue", Quality.Unknown }
             };
         }
 
